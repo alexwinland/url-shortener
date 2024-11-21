@@ -1,8 +1,8 @@
 # 🚀 Sistema de Encurtamento de URLs na AWS
 
-<img src="imagem/Projeto.png">
-
 Neste repositório, vamos explorar o poder das funções serverless usando AWS Lambda, Amazon S3, e muito mais, para criar um serviço de **encurtamento de URLs** dinâmico, seguro e escalável.
+
+<img src="imagem/Projeto.png">
 
 ## 💻 O Que Vamos Aprender?
 
